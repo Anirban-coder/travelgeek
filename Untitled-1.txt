@@ -1,0 +1,113 @@
+<div class = "featured-row">
+                    <div class = "featured-item my-2 shadow">
+                        <img src = "images/featured-reo-de-janeiro-brazil.jpg" alt = "featured place">
+                    </div>
+</div>
+
+                    <img src="images/berlinhotel (1).jpeg" alt="image not found" width="30%" height="30%" >
+
+
+
+
+                     <tr bgcolor="white" >
+                            <td ><img src="images/berlinhotel (2).jpeg" alt="image not found" width="30%" height="30%" ></td>
+                            <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat illo animi cum eum, qui numquam veritatis quibusdam accusantium eaque enim, est a consequuntur earum voluptas ab debitis soluta? Vitae, corrupti? Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero culpa repellat ullam, at repudiandae minima fugit tenetur, molestiae iste sapiente soluta dicta praesentium quae consequuntur amet blanditiis voluptatibus dolorum itaque! Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas praesentium recusandae iusto ipsam, quo consectetur. Ullam saepe harum voluptas vel aliquam tenetur corrupti vitae quis, officiis ex sed exercitationem provident.</td>
+                         </tr>
+                         <tr bgcolor="white" >
+                            <td><img src="images/berlinhotel (3).jpeg" alt="image not found" width="30%" height="30%" ></td>
+                            <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat illo animi cum eum, qui numquam veritatis quibusdam accusantium eaque enim, est a consequuntur earum voluptas ab debitis soluta? Vitae, corrupti? Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero culpa repellat ullam, at repudiandae minima fugit tenetur, molestiae iste sapiente soluta dicta praesentium quae consequuntur amet blanditiis voluptatibus dolorum itaque! Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas praesentium recusandae iusto ipsam, quo consectetur. Ullam saepe harum voluptas vel aliquam tenetur corrupti vitae quis, officiis ex sed exercitationem provident.</td>
+                         </tr>
+                         <tr bgcolor="white" >
+                            <td><img src="images/berlinhotel (4).jpeg" alt="image not found" width="30%" height="30%" ></td>
+                            <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat illo animi cum eum, qui numquam veritatis quibusdam accusantium eaque enim, est a consequuntur earum voluptas ab debitis soluta? Vitae, corrupti? Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero culpa repellat ullam, at repudiandae minima fugit tenetur, molestiae iste sapiente soluta dicta praesentium quae consequuntur amet blanditiis voluptatibus dolorum itaque! Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas praesentium recusandae iusto ipsam, quo consectetur. Ullam saepe harum voluptas vel aliquam tenetur corrupti vitae quis, officiis ex sed exercitationem provident.</td>
+                         </tr>
+                         <tr bgcolor="white" >
+                            <td ><img src="images/berlinhotel (5).jpeg" alt="image not found" width="30%" height="30%" ></td>
+                            <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat illo animi cum eum, qui numquam veritatis quibusdam accusantium eaque enim, est a consequuntur earum voluptas ab debitis soluta? Vitae, corrupti? Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero culpa repellat ullam, at repudiandae minima fugit tenetur, molestiae iste sapiente soluta dicta praesentium quae consequuntur amet blanditiis voluptatibus dolorum itaque! Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas praesentium recusandae iusto ipsam, quo consectetur. Ullam saepe harum voluptas vel aliquam tenetur corrupti vitae quis, officiis ex sed exercitationem provident.</td>
+                         </tr>
+                         <tr bgcolor="white" >
+                            <td> <img src="images/berlinhotel (6).jpeg" alt="image not found" width="30%" height="30%" ></td>
+                            <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat illo animi cum eum, qui numquam veritatis quibusdam accusantium eaque enim, est a consequuntur earum voluptas ab debitis soluta? Vitae, corrupti? Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero culpa repellat ullam, at repudiandae minima fugit tenetur, molestiae iste sapiente soluta dicta praesentium quae consequuntur amet blanditiis voluptatibus dolorum itaque! Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas praesentium recusandae iusto ipsam, quo consectetur. Ullam saepe harum voluptas vel aliquam tenetur corrupti vitae quis, officiis ex sed exercitationem provident.</td>
+                         </tr>
+                         <tr bgcolor="white" >
+                            <td><img src="images/berlinhotel (7).jpeg " alt="image not found" width="30%" height="30%" ></td>
+                            <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat illo animi cum eum, qui numquam veritatis quibusdam accusantium eaque enim, est a consequuntur earum voluptas ab debitis soluta? Vitae, corrupti? Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero culpa repellat ullam, at repudiandae minima fugit tenetur, molestiae iste sapiente soluta dicta praesentium quae consequuntur amet blanditiis voluptatibus dolorum itaque! Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas praesentium recusandae iusto ipsam, quo consectetur. Ullam saepe harum voluptas vel aliquam tenetur corrupti vitae quis, officiis ex sed exercitationem provident.</td>
+                         </tr>
+                         <tr bgcolor="white" >
+                            <td ><img src="images/berlinhotel (8).jpeg" alt="image not found" width="30%" height="30%" ></td>
+                            <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat illo animi cum eum, qui numquam veritatis quibusdam accusantium eaque enim, est a consequuntur earum voluptas ab debitis soluta? Vitae, corrupti? Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero culpa repellat ullam, at repudiandae minima fugit tenetur, molestiae iste sapiente soluta dicta praesentium quae consequuntur amet blanditiis voluptatibus dolorum itaque! Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas praesentium recusandae iusto ipsam, quo consectetur. Ullam saepe harum voluptas vel aliquam tenetur corrupti vitae quis, officiis ex sed exercitationem provident.</td>
+                         </tr>
+                         <tr bgcolor="white" >
+                            <td><img src="images/berlinhotel (9).jpeg" alt="image not found" width="30%" height="30%" ></td>
+                            <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat illo animi cum eum, qui numquam veritatis quibusdam accusantium eaque enim, est a consequuntur earum voluptas ab debitis soluta? Vitae, corrupti? Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero culpa repellat ullam, at repudiandae minima fugit tenetur, molestiae iste sapiente soluta dicta praesentium quae consequuntur amet blanditiis voluptatibus dolorum itaque! Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas praesentium recusandae iusto ipsam, quo consectetur. Ullam saepe harum voluptas vel aliquam tenetur corrupti vitae quis, officiis ex sed exercitationem provident.</td>
+                         </tr>
+                         
+                     </tbody>
+                 </table>
+                 table bgcolor="white"  cellspacing="10"  width="100%" height="100%">
+                    <thead>
+                        <tr bgcolor="white" >
+                            <th></th>
+                            <th></th>
+                            
+                        </tr>
+                    </thead>
+                 <h5>5 STAR  hotel experience </h5> 
+                                   <h5>pool </h5>
+                                    <h5>card entry </h5>
+                                    <h5>double bed</h5>
+                                    <h5>24/7 room service</h5>
+                                           <tbody>
+                        <tr bgcolor="white" >
+                            <td><img src="images/berlinhotel (1).jpeg" alt="image not found" width="50%" height="50%" ></td>
+                            <td>
+                                <div class = "title-wrap">
+                                   <span class = "sm-title"><h2>HOTEL INTERCONTINENTAL</h2></span>
+                                   <ol>
+                                    <li>5 STAR  hotel experience </li>
+                                    <li> pool </li>
+                                    <li>card entry </li>
+                                    <li> double bed</li>
+                                    <li> 24/7 room services </li>
+                                   </ol>
+                                </div>
+                            </td>
+                        </tr>
+                         <tr bgcolor="white" >
+                            <td ><img src="images/berlinhotel (2).jpeg" alt="image not found"width="50%" height="50%" ></td>
+                            <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat illo animi cum eum, qui numquam veritatis quibusdam accusantium eaque enim, est a consequuntur earum voluptas ab debitis soluta? Vitae, corrupti? Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero culpa repellat ullam, at repudiandae minima fugit tenetur, molestiae iste sapiente soluta dicta praesentium quae consequuntur amet blanditiis voluptatibus dolorum itaque! Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas praesentium recusandae iusto ipsam, quo consectetur. Ullam saepe harum voluptas vel aliquam tenetur corrupti vitae quis, officiis ex sed exercitationem provident.</td>
+                         </tr>
+                         <tr bgcolor="white" >
+                            <td><img src="images/berlinhotel (3).jpeg" alt="image not found" width="50%" height="50%"  ></td>
+                            <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat illo animi cum eum, qui numquam veritatis quibusdam accusantium eaque enim, est a consequuntur earum voluptas ab debitis soluta? Vitae, corrupti? Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero culpa repellat ullam, at repudiandae minima fugit tenetur, molestiae iste sapiente soluta dicta praesentium quae consequuntur amet blanditiis voluptatibus dolorum itaque! Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas praesentium recusandae iusto ipsam, quo consectetur. Ullam saepe harum voluptas vel aliquam tenetur corrupti vitae quis, officiis ex sed exercitationem provident.</td>
+                         </tr>
+                         <tr bgcolor="white" >
+                            <td><img src="images/berlinhotel (4).jpeg" alt="image not found" width="50%" height="50%"  ></td>
+                            <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat illo animi cum eum, qui numquam veritatis quibusdam accusantium eaque enim, est a consequuntur earum voluptas ab debitis soluta? Vitae, corrupti? Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero culpa repellat ullam, at repudiandae minima fugit tenetur, molestiae iste sapiente soluta dicta praesentium quae consequuntur amet blanditiis voluptatibus dolorum itaque! Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas praesentium recusandae iusto ipsam, quo consectetur. Ullam saepe harum voluptas vel aliquam tenetur corrupti vitae quis, officiis ex sed exercitationem provident.</td>
+                         </tr>
+                         <tr bgcolor="white" >
+                            <td ><img src="images/berlinhotel (5).jpeg" alt="image not found" width="50%" height="50%"  ></td>
+                            <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat illo animi cum eum, qui numquam veritatis quibusdam accusantium eaque enim, est a consequuntur earum voluptas ab debitis soluta? Vitae, corrupti? Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero culpa repellat ullam, at repudiandae minima fugit tenetur, molestiae iste sapiente soluta dicta praesentium quae consequuntur amet blanditiis voluptatibus dolorum itaque! Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas praesentium recusandae iusto ipsam, quo consectetur. Ullam saepe harum voluptas vel aliquam tenetur corrupti vitae quis, officiis ex sed exercitationem provident.</td>
+                         </tr>
+                         <tr bgcolor="white" >
+                            <td> <img src="images/berlinhotel (6).jpeg" alt="image not found" width="50%" height="50%"  ></td>
+                            <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat illo animi cum eum, qui numquam veritatis quibusdam accusantium eaque enim, est a consequuntur earum voluptas ab debitis soluta? Vitae, corrupti? Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero culpa repellat ullam, at repudiandae minima fugit tenetur, molestiae iste sapiente soluta dicta praesentium quae consequuntur amet blanditiis voluptatibus dolorum itaque! Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas praesentium recusandae iusto ipsam, quo consectetur. Ullam saepe harum voluptas vel aliquam tenetur corrupti vitae quis, officiis ex sed exercitationem provident.</td>
+                         </tr>
+                         <tr bgcolor="white" >
+                            <td><img src="images/berlinhotel (7).jpeg " alt="image not found" width="50%" height="50%" ></td>
+                            <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat illo animi cum eum, qui numquam veritatis quibusdam accusantium eaque enim, est a consequuntur earum voluptas ab debitis soluta? Vitae, corrupti? Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero culpa repellat ullam, at repudiandae minima fugit tenetur, molestiae iste sapiente soluta dicta praesentium quae consequuntur amet blanditiis voluptatibus dolorum itaque! Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas praesentium recusandae iusto ipsam, quo consectetur. Ullam saepe harum voluptas vel aliquam tenetur corrupti vitae quis, officiis ex sed exercitationem provident.</td>
+                         </tr>
+                         <tr bgcolor="white" >
+                            <td ><img src="images/berlinhotel (8).jpeg" alt="image not found" width="50%" height="50%"  ></td>
+                            <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat illo animi cum eum, qui numquam veritatis quibusdam accusantium eaque enim, est a consequuntur earum voluptas ab debitis soluta? Vitae, corrupti? Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero culpa repellat ullam, at repudiandae minima fugit tenetur, molestiae iste sapiente soluta dicta praesentium quae consequuntur amet blanditiis voluptatibus dolorum itaque! Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas praesentium recusandae iusto ipsam, quo consectetur. Ullam saepe harum voluptas vel aliquam tenetur corrupti vitae quis, officiis ex sed exercitationem provident.</td>
+                         </tr>
+                         <tr bgcolor="white" >
+                            <td><img src="images/berlinhotel (9).jpeg" alt="image not found" width="50%" height="50%" ></td>
+                            <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat illo animi cum eum, qui numquam veritatis quibusdam accusantium eaque enim, est a consequuntur earum voluptas ab debitis soluta? Vitae, corrupti? Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero culpa repellat ullam, at repudiandae minima fugit tenetur, molestiae iste sapiente soluta dicta praesentium quae consequuntur amet blanditiis voluptatibus dolorum itaque! Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas praesentium recusandae iusto ipsam, quo consectetur. Ullam saepe harum voluptas vel aliquam tenetur corrupti vitae quis, officiis ex sed exercitationem provident.</td>
+                         </tr>
+                         
+                     </tbody>
+                 </table>
+            </div>
+        </section>
+                

@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>TRAVLE GEEKS</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- font awesome cdn -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <!-- fonts -->
+        <link rel = "stylesheet" href = "font/fonts.css">
+        <!-- normalize css -->
+        <link rel = "stylesheet" href = "css/normalize.css">
+        <!-- custom css -->
+        <link rel = "stylesheet" href = "css/utility.css">
+        <link rel = "stylesheet" href = "css/style5.css">
+        <link rel = "stylesheet" href = "css/responsive.css">
+    </head>
+    <body>
+        <!-- navbar  -->
+        <nav class = "navbar">
+            <div class = "container flex">
+                <a href = "index.html" class = "site-brand">
+                    TRAVEL<span>GEEKS</span>
+                </a>
+
+                <button type = "button" id = "navbar-show-btn" class = "flex">
+                    <i class = "fas fa-bars"></i>
+                </button>
+                <div id = "navbar-collapse">
+                    <button type = "button" id = "navbar-close-btn" class = "flex">
+                        <i class = "fas fa-times"></i>
+                    </button>
+                    <ul class = "navbar-nav">
+                        <li class = "nav-item">
+                            <a href = "index.html" class = "nav-link">Home</a>
+                        </li>
+                        <li class = "nav-item">
+                            <a href = "gallery.html" class = "nav-link">Gallery</a>
+                        </li>
+                        <li class = "nav-item">
+                            <a href = "blog.html" class = "nav-link">Blog</a>
+                        </li>
+                        <li class = "nav-item">
+                            <a href = "about.html" class = "nav-link">About</a>
+                        </li>
+                        <li class = "nav-item">
+                            <a href = "contact.html" class = "nav-link">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- end of navbar  -->
+
+        <!-- header -->
+        <header class = "flex">
+            <div class = "container">
+                <div class = "header-title">
+                    <h1>Rome, Italy</h1>
+                    <p>Your experience of comfort is most importaint.The person who likes to travel will have a greate place through our website you can have all the details about your location</p>
+                </div>
+                <div class = "header-form">
+                    <h2>Choose your Travel location:</h2>
+                    <form class = "flex" class = "form-control">
+                        
+                        <label for="location"> </label>
+                        <select name="location"  id="location" <input type = "text" class = "form-control" placeholder="Choose location">>
+                            <option value="select_location" class = "form-control">choose location</option>
+                            <option value="Berlin"class = "form-control2">Berlin </option>
+                           <option value="Brazil"class = "form-control2">Brazil</option>
+                           <option value="Australia"class = "form-control2">Australia</option>
+                           <option value="thailand"class = "form-control2">thailand</option>
+                           <option value="Italy"class = "form-control2">Italy</option>
+                           <option value="maldives"class = "form-control2">maldives</option>
+                           <option value="India"class = "form-control2">India</option>
+                        </select>
+                        <input type="date" class = "form-control" placeholder="Date entry">
+                        <input type="date" class = "form-control" placeholder="Date exit">
+                        <input type="number" class = "form-control" placeholder="Price ($)">
+                        <input type="submit" class = "btn" value = "Search">
+                    </form>
+                </div>
+            </div>
+        </header>
+         
+        <!-- featured section -->
+        
+        <section id = "featured" class = "py-4">
+            <div class = "container">
+                <div class = "title-wrap">
+                    <span class = "sm-title">know about some places before your travel</span>
+                    <h2 class = "lg-title">our most visited places in the world </h2>
+                </div>
+            </div>
+        </section> 
+        <div class="spinner">
+            <div class="anir">
+                <div class="bod">
+                   <img src="images/berlinhotel (1).jpeg">
+                </div>
+                <div class="text">
+                <span ><h3>HOTEL INTERCONTINENTAL</h3>
+                    <span>Star Rating</span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                </span>
+                <h3>The consistence of free wifi, pool, resturents, gym 24/7 room service. Hotel INTERCONTINENTAL is one of the most popular frachicies of luxerious hotel arround the world annd the comfort of the guest will always be the first priority </h3>
+                <button  class="btn1" >book now</button>
+                <h5>free<i class="fa fa-wifi"></i></h5>
+                <h5>single and double<i  class="fa fa-bed"></i></h5>
+                 </div>
+            </div>
+        </div>
+        <div class="spinner">
+            <div class="anir">
+                <div class="bod">
+                   <img src="images/berlinhotel (2).jpeg">
+                </div>
+                <div class="text">
+                <span ><h3>HOTEL MARRIOT</h3>
+                    <span>Star Rating</span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                </span>
+                <h3>The consistence of free wifi, pool, resturents, gym 24/7 room service. Hotel Marriot is one of the most popular frachicies of luxerious hotel arround the world annd the comfort of the guest will always be the first priority </h3>
+                <h5>free<i class="fa fa-wifi"></i></h5>
+                <h5>single and double<i  class="fa fa-bed"></i></h5>
+                 </div>
+            </div>
+        </div>
+        <div class="spinner">
+            <div class="anir">
+                <div class="bod">
+                   <img src="images/berlinhotel (3).jpeg">
+                </div>
+                <div class="text">
+                <span ><h3> Mercure HOTEL </h3>
+                    <span>Star Rating</span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                </span>
+                <h3>The consistence of free wifi, pool, resturents, gym 24/7 room service. Hotel Marriot is one of the most popular frachicies of luxerious hotel arround the world annd the comfort of the guest will always be the first priority </h3>
+                <h5>free<i class="fa fa-wifi"></i></h5>
+                <h5>single and double<i  class="fa fa-bed"></i></h5>
+                 </div>
+            </div>
+        </div>
+        <div class="spinner">
+            <div class="anir">
+                <div class="bod">
+                   <img src="images/berlinhotel (4).jpeg">
+                </div>
+                <div class="text">
+                <span ><h3>HOTEL INTERCONTINENTAL</h3>
+                    <span>Star Rating</span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                </span>
+                <h3>The consistence of free wifi, pool, resturents, gym 24/7 room service. Hotel Marriot is one of the most popular frachicies of luxerious hotel arround the world annd the comfort of the guest will always be the first priority </h3>
+                <h5>free<i class="fa fa-wifi"></i></h5>
+                <h5>single and double<i  class="fa fa-bed"></i></h5>
+                 </div>
+            </div>
+        </div>
+        <div class="spinner">
+            <div class="anir">
+                <div class="bod">
+                   <img src="images/berlinhotel (5).jpeg">
+                </div>
+                <div class="text">
+                <span ><h3>HOTEL INTERCONTINENTAL</h3>
+                    <span>Star Rating</span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                </span>
+                <h3>The consistence of free wifi, pool, resturents, gym 24/7 room service. Hotel Marriot is one of the most popular frachicies of luxerious hotel arround the world annd the comfort of the guest will always be the first priority </h3>
+                
+                <h5>free<i class="fa fa-wifi"></i></h5>
+                <h5>single and double<i  class="fa fa-bed"></i></h5>
+                 </div>
+            </div>
+        </div>
+        <div class="spinner">
+            <div class="anir">
+                <div class="bod">
+                   <img src="images/berlinhotel (6).jpeg">
+                </div>
+                <div class="text">
+                <span ><h3>HOTEL INTERCONTINENTAL</h3>
+                    <span>Star Rating</span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                </span>
+                <h3>The consistence of free wifi, pool, resturents, gym 24/7 room service. Hotel Marriot is one of the most popular frachicies of luxerious hotel arround the world annd the comfort of the guest will always be the first priority </h3>
+                
+                <h5>free<i class="fa fa-wifi"></i></h5>
+                <h5>single and double<i  class="fa fa-bed"></i></h5>
+                 </div>
+            </div>
+        </div>
+        <div class="spinner">
+            <div class="anir">
+                <div class="bod">
+                   <img src="images/berlinhotel (7).jpeg">
+                </div>
+                <div class="text">
+                <span ><h3>HOTEL INTERCONTINENTAL</h3>
+                    <span>Star Rating</span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                </span>
+                <h3>The consistence of free wifi, pool, resturents, gym 24/7 room service. Hotel Marriot is one of the most popular frachicies of luxerious hotel arround the world annd the comfort of the guest will always be the first priority </h3>
+                
+                <h5>free<i class="fa fa-wifi"></i></h5>
+                <h5>single and double<i  class="fa fa-bed"></i></h5>
+                 </div>
+            </div>
+        </div>
+        <div class="spinner">
+            <div class="anir">
+                <div class="bod">
+                   <img src="images/berlinhotel (8).jpeg">
+                </div>
+                <div class="text">
+                <span ><h3>HOTEL INTERCONTINENTAL</h3>
+                    <span>Star Rating</span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                </span>
+                <h3>The consistence of free wifi, pool, resturents, gym 24/7 room service. Hotel Marriot is one of the most popular frachicies of luxerious hotel arround the world annd the comfort of the guest will always be the first priority </h3>
+                
+                <h5>free<i class="fa fa-wifi"></i></h5>
+                <h5>single and double<i  class="fa fa-bed"></i></h5>
+                 </div>
+            </div>
+        </div>
+        <div class="spinner">
+            <div class="anir">
+                <div class="bod">
+                   <img src="images/berlinhotel (9).jpeg">
+                </div>
+                <div class="text">
+                <span ><h3>HOTEL INTERCONTINENTAL</h3>
+                    <span>Star Rating</span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                </span>
+                <h3>The consistence of free wifi, pool, resturents, gym 24/7 room service. Hotel Marriot is one of the most popular frachicies of luxerious hotel arround the world annd the comfort of the guest will always be the first priority </h3>
+                
+                <span>
+                <h5>free<i class="fa fa-wifi"></i></h5>
+                <h5>single and double<i  class="fa fa-bed"></i></h5>
+                 </div>
+            </div>
+        </div>    
+        
+        <!-- header -->
+
+        <!-- end of testimonials section -->
+
+        <!-- video section -->
+        <section id = "video">
+            <div class = "video-wrapper flex">
+                <video loop>
+                    <source src = "videos/Untitled video - Made with Clipchamp (2).mp4" type = "video/mp4">
+                </video>
+                <button type = "button" id = "play-btn">
+                    <i class = "fas fa-play"></i>
+                </button>
+            </div>
+        </section>
+        <!-- end of video section -->
+
+        <!-- footer -->
+        <footer class = "py-4">
+            <div class = "container footer-row">
+                <div class = "footer-item">
+                    <a href = "index.html" class = "site-brand">
+                        Travel<span>GEEKS</span>
+                    </a>
+                    <p class = "text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet voluptates maiores nam vitae iusto. Placeat rem sint voluptas natus exercitationem autem quod neque, odit laudantium reiciendis ipsa suscipit veritatis voluptate.</p>
+                </div>
+
+                <div class = "footer-item">
+                    <h2>Follow us on: </h2>
+                    <ul class = "social-links">
+                        <li>
+                            <a href = "#">
+                                <i class = "fab fa-facebook-f"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href = "#">
+                                <i class = "fab fa-instagram"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href = "#">
+                                <i class = "fab fa-twitter"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href = "#">
+                                <i class = "fab fa-pinterest"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href = "#">
+                                <i class = "fab fa-google-plus"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class = "footer-item">
+                    <h2>Popular Places:</h2>
+                    <ul>
+                        <li><a href = "thailand.html">Thailand</a></li>
+                        <li><a href = "rio_de_janeiro.html">Brazil</a></li>
+                        <li><a href = "fuvahmula_maldives.html">Maldives</a></li>
+                        <li><a href = "taj_mahal_india.html">India</a></li>
+                        <li><a href = "berlin_hotels.html">Germany</a></li>
+                        <li><a href = "Rome_Italy.html">Italy</a></li>
+                    </ul>
+                </div>
+
+                <div class = "subscribe-form footer-item">
+                    <h2>Subscribe for Newsletter!</h2>
+                    <form class = "flex">
+                        <input type = "email" placeholder="Enter Email" class = "form-control">
+                        <input type = "submit" class = "btn" value = "Subscribe">
+                    </form>
+                </div>
+            </div>
+        </footer>
+        <!-- end of footer -->
+
+        <!-- js -->
+        <script src = "js/script.js"></script>
+        <script>
+            // play/pause video
+            let video = document.querySelector('.video-wrapper video');
+            document.getElementById('play-btn').addEventListener('click', () => {
+                if(video.paused){
+                    video.play();
+                } else {
+                    video.pause();
+                }
+            });
+        </script>
+    </body>
+</html>
